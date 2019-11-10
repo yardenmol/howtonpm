@@ -11,5 +11,13 @@
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yardenmol/howtonpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yardenmol/howtonpm/issues"
+  },
+  "homepage": "https://github.com/yardenmol/howtonpm#readme"
 }
